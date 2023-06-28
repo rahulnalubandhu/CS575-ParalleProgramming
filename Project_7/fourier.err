@@ -1,0 +1,26 @@
+Node   0 entered DoOneLocalFourier( )
+  1 processors,    1048576 elements,     43.42 mega-multiplies computed per second
+Node   0 entered DoOneLocalFourier( )
+Node   1 entered DoOneLocalFourier( )
+  2 processors,    1048576 elements,     85.38 mega-multiplies computed per second
+Node   1 entered DoOneLocalFourier( )
+Node   2 entered DoOneLocalFourier( )
+Node   0 entered DoOneLocalFourier( )
+Node   3 entered DoOneLocalFourier( )
+  4 processors,    1048576 elements,    162.99 mega-multiplies computed per second
+Node   1 entered DoOneLocalFourier( )
+Node   2 entered DoOneLocalFourier( )
+Node   3 entered DoOneLocalFourier( )
+Node   4 entered DoOneLocalFourier( )
+Node   0 entered DoOneLocalFourier( )
+Node   5 entered DoOneLocalFourier( )
+  6 processors,    1048576 elements,    225.60 mega-multiplies computed per second
+Node   1 entered DoOneLocalFourier( )
+Node   2 entered DoOneLocalFourier( )
+Node   3 entered DoOneLocalFourier( )
+Node   4 entered DoOneLocalFourier( )
+Node   5 entered DoOneLocalFourier( )
+Node   6 entered DoOneLocalFourier( )
+Node   0 entered DoOneLocalFourier( )
+Node   7 entered DoOneLocalFourier( )
+  8 processors,    1048576 elements,    275.31 mega-multiplies computed per second
