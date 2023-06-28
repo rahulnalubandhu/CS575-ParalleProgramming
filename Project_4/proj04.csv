@@ -1,0 +1,29 @@
+        1024	NonSimd_megaMults     120.48	Simd_megaMults     864.74	NonSimd_Speedup   7.18	NonSimd_megaMultAdds     105.73	Simd_megaMultAdds     816.57	Simd_Speedup   7.72
+        2048	NonSimd_megaMults     121.24	Simd_megaMults    1020.43	NonSimd_Speedup   8.42	NonSimd_megaMultAdds     122.53	Simd_megaMultAdds    1017.95	Simd_Speedup   8.31
+        4096	NonSimd_megaMults     120.95	Simd_megaMults     942.52	NonSimd_Speedup   7.79	NonSimd_megaMultAdds     122.91	Simd_megaMultAdds    1026.56	Simd_Speedup   8.35
+        8192	NonSimd_megaMults     163.30	Simd_megaMults    1741.54	NonSimd_Speedup  10.66	NonSimd_megaMultAdds     171.23	Simd_megaMultAdds    1275.81	Simd_Speedup   7.45
+       16384	NonSimd_megaMults     120.85	Simd_megaMults     965.41	NonSimd_Speedup   7.99	NonSimd_megaMultAdds     123.26	Simd_megaMultAdds    1008.93	Simd_Speedup   8.19
+       32768	NonSimd_megaMults     121.01	Simd_megaMults     800.96	NonSimd_Speedup   6.62	NonSimd_megaMultAdds     123.24	Simd_megaMultAdds    1002.75	Simd_Speedup   8.14
+       65536	NonSimd_megaMults     120.94	Simd_megaMults     785.75	NonSimd_Speedup   6.50	NonSimd_megaMultAdds     123.19	Simd_megaMultAdds     994.02	Simd_Speedup   8.07
+      131072	NonSimd_megaMults     221.69	Simd_megaMults    1371.50	NonSimd_Speedup   6.19	NonSimd_megaMultAdds     225.84	Simd_megaMultAdds    1812.99	Simd_Speedup   8.03
+      262144	NonSimd_megaMults     219.90	Simd_megaMults    1318.39	NonSimd_Speedup   6.00	NonSimd_megaMultAdds     224.92	Simd_megaMultAdds    1801.71	Simd_Speedup   8.01
+      524288	NonSimd_megaMults     217.01	Simd_megaMults    1330.97	NonSimd_Speedup   6.13	NonSimd_megaMultAdds     224.44	Simd_megaMultAdds    1751.99	Simd_Speedup   7.81
+     1048576	NonSimd_megaMults     216.22	Simd_megaMults     808.26	NonSimd_Speedup   3.74	NonSimd_megaMultAdds     218.33	Simd_megaMultAdds    1248.92	Simd_Speedup   5.72
+     2097152	NonSimd_megaMults     212.39	Simd_megaMults     643.62	NonSimd_Speedup   3.03	NonSimd_megaMultAdds     219.81	Simd_megaMultAdds    1070.65	Simd_Speedup   4.87
+     4194304	NonSimd_megaMults     214.91	Simd_megaMults     608.04	NonSimd_Speedup   2.83	NonSimd_megaMultAdds     220.20	Simd_megaMultAdds    1044.68	Simd_Speedup   4.74
+     8388608	NonSimd_megaMults     214.86	Simd_megaMults     720.15	NonSimd_Speedup   3.35	NonSimd_megaMultAdds     220.52	Simd_megaMultAdds    1098.43	Simd_Speedup   4.98
+
+NonSimd_Speedup   7.18	Simd_Speedup   7.72  ArraySize 1024
+NonSimd_Speedup   8.42	Simd_Speedup   8.31  ArraySize 2048
+NonSimd_Speedup   7.79	Simd_Speedup   8.35  ArraySize 4096
+NonSimd_Speedup  10.66	Simd_Speedup   7.45  ArraySize 8192
+NonSimd_Speedup   7.99	Simd_Speedup   8.19  ArraySize 16384
+NonSimd_Speedup   6.62	Simd_Speedup   8.14  ArraySize 32768
+NonSimd_Speedup   6.50	Simd_Speedup   8.07  ArraySize 65536
+NonSimd_Speedup   6.19	Simd_Speedup   8.03  ArraySize 131072
+NonSimd_Speedup   6.00	Simd_Speedup   8.01  ArraySize 262144
+NonSimd_Speedup   6.13	Simd_Speedup   7.81  ArraySize 524288
+NonSimd_Speedup   3.74	Simd_Speedup   5.72  ArraySize 1048576
+NonSimd_Speedup   3.03	Simd_Speedup   4.87  ArraySize 2097152
+NonSimd_Speedup   2.83	Simd_Speedup   4.74  ArraySize 4194304
+NonSimd_Speedup   3.35	Simd_Speedup   4.98  ArraySize 8388608
