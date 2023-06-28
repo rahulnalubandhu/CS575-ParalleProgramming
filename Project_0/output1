@@ -1,0 +1,8 @@
+
+NUMT = 1
+OpenMP version 201107 is supported here
+For 1 threads, Peak Performance =   171.62 MegaMults/Sec
+
+NUMT = 4
+OpenMP version 201107 is supported here
+For 4 threads, Peak Performance =   560.21 MegaMults/Sec
